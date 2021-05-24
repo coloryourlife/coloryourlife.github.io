@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[MongoDB]Database Migration"
-date: 2021-05-24 16:48:28
+date: 2021-05-24
 categories: 
 - web
 tags: [flask, mongoDB, Database]
