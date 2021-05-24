@@ -79,7 +79,7 @@ Python 기반의 웹 프레임워크로는 대표적으로 Django와 Flask가 �
 - Flask를 완벽하게 숙지하고 사용할 줄 안다면 이후에 Django를 사용할 일이 생기더라도 빠르게 익힐 수 있을 것으로 기대한다.
 
 ## 참고 블로그
-- https://dingrr.com/blog/post/%EC%96%B8%EC%A0%9C-django%EB%A5%BC-%EC%96%B8%EC%A0%9C-flask%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C
-- https://www.imaginarycloud.com/blog/flask-vs-django/
+- <https://dingrr.com/blog/post/%EC%96%B8%EC%A0%9C-django%EB%A5%BC-%EC%96%B8%EC%A0%9C-flask%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C>
+- <https://www.imaginarycloud.com/blog/flask-vs-django/>
 
 
