@@ -1,2 +1,2 @@
-# coloryourlife.github.io
-Devlog
+
+# blog
