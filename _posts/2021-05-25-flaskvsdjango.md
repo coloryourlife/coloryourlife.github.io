@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[MongoDB]Database Migration"
+title: "[Framework]Flask vs Django"
 date: 2021-05-24
 categories: 
 - web
